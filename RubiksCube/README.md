@@ -1,4 +1,4 @@
-Welcome to the Rubik\'s Cube Simulator! 
+# Welcome to the Rubik\'s Cube Simulator! 
 
 
 To familiarize yourself with standard Rubik's cube notation, refer to https://ruwix.com/the-rubiks-cube/notation/
@@ -20,17 +20,17 @@ L': Turn the left face counter-clockwise\
 F: Turn the front face clockwise\
 F': Turn the front face counter-clockwise\
 B: Turn the back face clockwise\
-B': Turn the back face counter-clockwise
-U: Turn the top face clockwise
-U': Turn the top face counter-clockwise
-D: Turn the bottom face clockwise
-D': Turn the bottom face counter-clockwise
-M: Turn the X-axis middle face clockwise
-M': Turn the X-axis middle face counter-clockwise
-E: Turn the Y-axis middle face clockwise
-E': Turn the Y-axis middle face counter-clockwise
-S: Turn the Z-axis middle face clockwise
-S': Turn the Z-axis middle face counter-clockwise
+B': Turn the back face counter-clockwise\
+U: Turn the top face clockwise\
+U': Turn the top face counter-clockwise\
+D: Turn the bottom face clockwise\
+D': Turn the bottom face counter-clockwise\
+M: Turn the X-axis middle face clockwise\
+M': Turn the X-axis middle face counter-clockwise\
+E: Turn the Y-axis middle face clockwise\
+E': Turn the Y-axis middle face counter-clockwise\
+S: Turn the Z-axis middle face clockwise\
+S': Turn the Z-axis middle face counter-clockwise\\
 
 set: Set a custom cube:
    - Enter the color of each square of each face row by row. Make sure you enter capital letters.
@@ -42,10 +42,10 @@ set: Set a custom cube:
 reset: Reset the cube
 split-faces: Display each face of the cube separately
 combine-faces: Combine the faces of the cube in the following format:
-      U
-   L  F  R  B
-      D
-shuffle: Shuffle the cube
-solve: Solve the cube
-help: List the available commands
-quit: Quit the simulation
+      U\
+   L  F  R  B\
+      D\
+shuffle: Shuffle the cube\
+solve: Solve the cube\
+help: List the available commands\
+quit: Quit the simulation\
