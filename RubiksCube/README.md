@@ -42,9 +42,9 @@ set: Set a custom cube:
 reset: Reset the cube\
 split-faces: Display each face of the cube separately\
 combine-faces: Combine the faces of the cube in the following format:\
-&nbsp; &nbsp; U\
-L  F  R  B\
-&nbsp; &nbsp; D\
+&nbsp;&nbsp; U\
+L&nbsp;&nbsp;F&nbsp;&nbsp;R&nbsp;&nbsp;B\
+&nbsp;&nbsp; D\
 shuffle: Shuffle the cube\
 solve: Solve the cube\
 help: List the available commands\
