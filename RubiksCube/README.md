@@ -6,20 +6,20 @@ To familiarize yourself with standard Rubik's cube notation, refer to https://ru
 
 You can use the following commands to change the cube:
 
-X: Rotate the entire cube in the X-axis clockwise
-X': Rotate the entire cube in the X-axis counter-clockwise
-Y: Rotate the entire cube in the Y-axis clockwise
-Y': Rotate the entire cube in the Y-axis counter-clockwise
-Z: Rotate the entire cube in the Z-axis clockwise
-Z': Rotate the entire cube in the Z-axis counter-clockwise
+X: Rotate the entire cube in the X-axis clockwise\
+X': Rotate the entire cube in the X-axis counter-clockwise\
+Y: Rotate the entire cube in the Y-axis clockwise\
+Y': Rotate the entire cube in the Y-axis counter-clockwise\
+Z: Rotate the entire cube in the Z-axis clockwise\
+Z': Rotate the entire cube in the Z-axis counter-clockwise\\
 
-R: Turn the right face clockwise
-R': Turn the right face counter-clockwise
-L: Turn the left face clockwise
-L': Turn the left face counter-clockwise
-F: Turn the front face clockwise
-F': Turn the front face counter-clockwise
-B: Turn the back face clockwise
+R: Turn the right face clockwise\
+R': Turn the right face counter-clockwise\
+L: Turn the left face clockwise\
+L': Turn the left face counter-clockwise\
+F: Turn the front face clockwise\
+F': Turn the front face counter-clockwise\
+B: Turn the back face clockwise\
 B': Turn the back face counter-clockwise
 U: Turn the top face clockwise
 U': Turn the top face counter-clockwise
