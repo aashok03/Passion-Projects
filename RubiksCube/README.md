@@ -39,9 +39,9 @@ set: Set a custom cube:
    - For instance, the default cube would be inputted as GGGGGGGGG BBBBBBBBB WWWWWWWWW YYYYYYYYY RRRRRRRRR OOOOOOOOO
    - Make sure that you enter 6 faces, each with 9 squares. Each color can only appear 9 times.
    - NOTE: Apart from the restrictions mentioned above, the cube does not verify if the combination you entered is physically possible or not.
-reset: Reset the cube
-split-faces: Display each face of the cube separately
-combine-faces: Combine the faces of the cube in the following format:
+reset: Reset the cube\
+split-faces: Display each face of the cube separately\
+combine-faces: Combine the faces of the cube in the following format:\
       U\
    L  F  R  B\
       D\
