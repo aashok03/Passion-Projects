@@ -11,7 +11,7 @@ X': Rotate the entire cube in the X-axis counter-clockwise\
 Y: Rotate the entire cube in the Y-axis clockwise\
 Y': Rotate the entire cube in the Y-axis counter-clockwise\
 Z: Rotate the entire cube in the Z-axis clockwise\
-Z': Rotate the entire cube in the Z-axis counter-clockwise\\
+Z': Rotate the entire cube in the Z-axis counter-clockwise\
 
 R: Turn the right face clockwise\
 R': Turn the right face counter-clockwise\
@@ -30,7 +30,7 @@ M': Turn the X-axis middle face counter-clockwise\
 E: Turn the Y-axis middle face clockwise\
 E': Turn the Y-axis middle face counter-clockwise\
 S: Turn the Z-axis middle face clockwise\
-S': Turn the Z-axis middle face counter-clockwise\\
+S': Turn the Z-axis middle face counter-clockwise\
 
 set: Set a custom cube:
    - Enter the color of each square of each face row by row. Make sure you enter capital letters.
@@ -42,9 +42,9 @@ set: Set a custom cube:
 reset: Reset the cube\
 split-faces: Display each face of the cube separately\
 combine-faces: Combine the faces of the cube in the following format:\
-      U\
-   L  F  R  B\
-      D\
+&nbsp &nbsp U\
+L  F  R  B\
+&nbsp &nbsp D\
 shuffle: Shuffle the cube\
 solve: Solve the cube\
 help: List the available commands\
